@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/dotnet_collections/bin/Debug/netcoreapp2.0/dotnet_collections.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/dotnet_collections/bin/Debug/netcoreapp2.0/dotnet_collections.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/dotnet_collections/bin/Debug/netcoreapp2.0/dotnet_collections.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/dotnet_collections/bin/Debug/netcoreapp2.0/dotnet_collections.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/dotnet_collections/bin/Debug/netcoreapp2.0/dotnet_collections.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/dotnet_collections/obj/Debug/netcoreapp2.0/dotnet_collections.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/dotnet_collections/obj/Debug/netcoreapp2.0/dotnet_collections.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/dotnet_collections/obj/Debug/netcoreapp2.0/dotnet_collections.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/dotnet_collections/obj/Debug/netcoreapp2.0/dotnet_collections.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/dotnet_collections/obj/Debug/netcoreapp2.0/dotnet_collections.pdb
